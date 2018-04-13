@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Hello Word!.",
     "homepage": "https://github.com/anhle93/helloworld",
+    "license": "MIT",
     "authors": [
         {
             "name": "AnhLe",
